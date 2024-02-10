@@ -1,0 +1,7 @@
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab5\1.2_lab5\obj\Debug\1.2_lab5.csprojAssemblyReference.cache
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab5\1.2_lab5\obj\Debug\1.2_lab5.csproj.CoreCompileInputs.cache
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab5\1.2_lab5\bin\Debug\1.2_lab5.exe.config
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab5\1.2_lab5\bin\Debug\1.2_lab5.exe
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab5\1.2_lab5\bin\Debug\1.2_lab5.pdb
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab5\1.2_lab5\obj\Debug\1.2_lab5.exe
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab5\1.2_lab5\obj\Debug\1.2_lab5.pdb

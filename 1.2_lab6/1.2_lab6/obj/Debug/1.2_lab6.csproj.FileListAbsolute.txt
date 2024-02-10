@@ -1,0 +1,7 @@
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab6\1.2_lab6\bin\Debug\1.2_lab6.exe.config
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab6\1.2_lab6\bin\Debug\1.2_lab6.exe
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab6\1.2_lab6\bin\Debug\1.2_lab6.pdb
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab6\1.2_lab6\obj\Debug\1.2_lab6.csprojAssemblyReference.cache
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab6\1.2_lab6\obj\Debug\1.2_lab6.csproj.CoreCompileInputs.cache
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab6\1.2_lab6\obj\Debug\1.2_lab6.exe
+C:\Users\Лера\Desktop\Учеба\C#\1.2_lab6\1.2_lab6\obj\Debug\1.2_lab6.pdb
